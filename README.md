@@ -1,5 +1,5 @@
-h1 PainCanvas
-h2 This project is a small test project
+H1 PainCanvas
+H2 This project is a small test project
 
 The aim was to challenge myself in my understanding and use of HTML, CSS and JS to see if i could develop a fun little online version of paint!
 An additional criteria I wanted to practice was imporving the responsive nature of my websites for both mobile and desktop viewing
