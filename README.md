@@ -21,4 +21,4 @@ Additionally,  the user should be able to adjust the resolution of the canvas (a
 - [ ] Use of media query to change positions/css
 - [ ] Rotation of canvas from protrait to landscape - to challenge myself with matrices rotation mathematics and custom algorithsm
 - [ ] Loading/Saving canvases 
-- [ ] Laters
+- [ ] Layers
