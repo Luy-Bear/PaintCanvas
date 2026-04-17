@@ -1,11 +1,11 @@
-# PainCanvas
+# PaintCanvas
 ## This project is a small test project
 
-The aim was to challenge myself in my understanding and use of HTML, CSS and JS to see if i could develop a fun little online version of paint!
-An additional criteria I wanted to practice was imporving the responsive nature of my websites for both mobile and desktop viewing
+The aim was to challenge myself in my understanding and use of HTML, CSS and JS to see if I could develop a fun little online version of paint!
+An additional criteria I wanted to practice was improving the responsive nature of my websites for both mobile and desktop viewing
 
-My vision is to create a blank canvas that the user can use their mouse to draw on. The basic idea is that the user can select colours (and potentially tools) to begin drawining anything. 
-Additionally the user should be able to adjust the resolution of the canvas (adjusting how many paintable boxes there are in the canvas) incase they want more fine detail to create their master pieces!
+My vision is to create a blank canvas that the user can use their mouse to draw on. The basic idea is that the user can select colours (and potentially tools) to begin drawing anything. 
+Additionally,  the user should be able to adjust the resolution of the canvas (adjusting how many paintable boxes there are in the canvas) incase they wanted finer detail to create their master pieces!
 
 
 ### Base Goals:
