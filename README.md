@@ -9,15 +9,15 @@ Additionally,  the user should be able to adjust the resolution of the canvas (a
 
 
 ### Base Goals:
-[ ] Have a canvas the user can "paint" onto
-[ ] Different, sleectable colours
-[ ] Ability to change "resolution" of the canvas
-[ ] Readable UI
-[ ] Responsive UI
+- [ ] Have a canvas the user can "paint" onto
+- [ ] Different, sleectable colours
+- [ ] Ability to change "resolution" of the canvas
+- [ ] Readable UI
+- [ ] Responsive UI
 
 ### Stretch Goals:
-[ ] RGB Slider - Rather than preselected colours
-[ ] Fill tool - To challenge myself with 2D array mathematics
-[ ] Use of media query to change positions/css
-[ ] Rotation of canvas from protrait to landscape - to challenge myself with matrices rotation mathematics and custom algorithsm
-[ ] Loading/Saving canvases 
+- [ ] RGB Slider - Rather than preselected colours
+- [ ] Fill tool - To challenge myself with 2D array mathematics
+- [ ] Use of media query to change positions/css
+- [ ] Rotation of canvas from protrait to landscape - to challenge myself with matrices rotation mathematics and custom algorithsm
+- [ ] Loading/Saving canvases 
