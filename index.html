@@ -8,18 +8,27 @@
         </div>
     <div>
         <button id="AddBoxBtn">Add a Box!</button>
-        <button onclick="setColour(1)">Red</button>
-        <button onclick="setColour(2)">Yellow</button>
-        <button onclick="setColour(3)">Green</button>
     </div>        
     <div><p>Canvas Resolution</p><input type="range"></div>
     <div class="ColourPickerDiv">
         <div>
-            <div class="ColorSelector"><p>Red</p><input type="range"></div>
-            <div class="ColorSelector"><p>Green</p><input type="range"></div>
-            <div class="ColorSelector"><p>Blue</p><input type="range"></div>
+            <div class="ColorSelector">
+                <p>Red</p>
+                <input type="range" min="0" max="255" step="1" value="0" id="RedSlider">
+            </div>
+            <div class="ColorSelector">
+                <p>Green</p>
+                <input type="range" min="0" max="255" step="1" value="0"id="GreenSlider">
+            </div>
+            <div class="ColorSelector">
+                <p>Blue</p>
+                <input type="range" min="0" max="255" step="1" value="0" id="BlueSlider">
+            </div>
         </div>
-        <div class="ChosenColour"></div>
+        <div>
+            <div class="ChosenColour"></div>
+            <p> COLOUR</p>
+        </div>
     </div>
     <script src="index.js"></script>
     </body>
