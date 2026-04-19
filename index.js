@@ -58,7 +58,7 @@ AddBoxBtn.addEventListener("click", AddButtonToDiv)
 let chosenColour = "rgb(255, 255, 255)"
 
 
-for(let i = 0; i <9600; i++){
+for(let i = 0; i <1200; i++){
     AddButtonToDiv()
 }
 
